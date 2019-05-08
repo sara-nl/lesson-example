@@ -1,12 +1,10 @@
 lesson-example
 ==============
 
-[![Create a Slack Account with us][create_slack_svg]][slack_heroku_invite]
-
-This repository shows how to create a lesson using
-[The Carpentries lesson template][styles],
+This repository shows how to create a lesson using the
+[SURF lesson template][styles],
 and is itself an example of the use of that template.
-Please see <https://carpentries.github.io/lesson-example/>
+Please see <https://sara-nl.github.io/lesson-example/>
 for a rendered version of this material,
 including detailed instructions on design, setup, and formatting.
 
@@ -89,13 +87,11 @@ In brief:
     please see [the list of issues for this repository][issues].
 
 [collections]: https://jekyllrb.com/docs/collections/
-[editing-config]: https://carpentries.github.io/lesson-example/03-organization/
-[example-issues]: https://github.com/carpentries/lesson-example/issues/
+[editing-config]: https://sara-nl.github.io/lesson-example/03-organization/
+[example-issues]: https://github.com/sara-nl/lesson-example/issues/
 [github-pages]: https://help.github.com/articles/creating-project-pages-manually/
-[issues]: https://github.com/carpentries/lesson-example/issues
-[rendered]: https://carpentries.github.io/lesson-example/
-[setup]: https://carpentries.github.io/lesson-example/setup.html
-[styles-issues]: https://github.com/carpentries/styles/issues/
-[styles]: https://github.com/carpentries/styles/
-[create_slack_svg]: https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg
-[slack_heroku_invite]: https://swc-slack-invite.herokuapp.com
+[issues]: https://github.com/sara-nl/lesson-example/issues
+[rendered]: https://sara-nl.github.io/lesson-example/
+[setup]: https://sara-nl.github.io/lesson-example/setup.html
+[styles-issues]: https://github.com/sara-nl/styles/issues/
+[styles]: https://github.com/sara-nl/styles/
