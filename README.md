@@ -1,9 +1,8 @@
 lesson-example
 ==============
 
-This repository shows how to create a lesson using the
-[SURF lesson template][styles],
-and is itself an example of the use of that template.
+This repository shows how to create a lesson using this
+SURF lesson template, and is itself an example of the use of the template.
 Please see <https://sara-nl.github.io/lesson-example/>
 for a rendered version of this material,
 including detailed instructions on design, setup, and formatting.
@@ -12,8 +11,7 @@ including detailed instructions on design, setup, and formatting.
 
 1.  Do *not* fork this repository directly on GitHub.
     Instead, please follow the instructions in [the setup instructions][setup]
-    to create a repository for your lesson by importing material
-    from [the styles repository][styles].
+    to create a repository for your lesson by importing.
 
 2.  Once you have created your repository,
     run `bin/lesson_initialize.py` to create standard lesson-specific files.
@@ -34,10 +32,8 @@ including detailed instructions on design, setup, and formatting.
 
 6.  Run `make lesson-check` to check that your files follow our formatting rules.
 
-7.  If you find an error or omission in this documentation,
+7.  If you find an error or omission in this template or in its documentation,
     please [file an issue in this repository][example-issues].
-    If you find an error or omission in the lesson template,
-    please [file an issue in the styles repository][styles-issues] instead.
 
 ## Layout
 
@@ -80,7 +76,7 @@ In brief:
 2.  Run `make lesson-check` at any time
     to check that your lesson files follow our formatting rules.
     If you come across formatting issues that the checker doesn't report,
-    please [file an issue in the styles repository][styles-issues].
+    please [file an issue][issues].
 
 3.  For a list of helpful commands run `make` in this directory.
     If you are looking for things to work on,
@@ -93,5 +89,3 @@ In brief:
 [issues]: https://github.com/sara-nl/lesson-example/issues
 [rendered]: https://sara-nl.github.io/lesson-example/
 [setup]: https://sara-nl.github.io/lesson-example/setup.html
-[styles-issues]: https://github.com/sara-nl/styles/issues/
-[styles]: https://github.com/sara-nl/styles/
